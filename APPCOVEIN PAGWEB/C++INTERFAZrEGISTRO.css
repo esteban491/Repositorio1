@@ -1,0 +1,100 @@
+body {
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+background-color: white;
+}
+
+.forma-registro {
+width: 530px ;
+height: 680px ;
+background-color: #a11f1f ;
+padding: 30px;
+margin: black ; 
+border-radius: 20px;
+}
+.h1{
+    font-size: 250%;
+    font-family: arial;
+    color: #000000;
+    margin-top: -700px;
+    margin-right: -5px;
+    margin-left: 200px;
+}
+
+.inp{
+    font-family: arial;
+    background: #1B1B1B ;
+    font-size: 150%;
+        color: #FDFDB3;
+         border-color: #ffffff;
+   border-width: 2px;
+   border-style: solid;
+        display: inline-block;
+        font-size: 100%;
+        text-align: center;
+        padding: 10px;
+        text-decoration: none;
+        border-radius: 5px;
+        margin-top: -680px;
+         margin-left: 211px;
+    
+
+}
+.inp2{
+    font-family: arial;
+    background: #000000 ;
+    font-size: 300%;
+        color: #FDFDB3;
+         border-color: #FDFDB3;
+   border-width: 3px;
+   border-style: solid;
+        display: inline-block;
+        font-size: 100%;
+        text-align: center;
+        padding: 10px;
+        text-decoration: none;
+        border-radius: 10px;
+         margin-top: -680px;
+         margin-left: 211px;
+}
+
+
+
+
+
+.button
+    {
+        background: #000000 ;
+        font-family: arial;
+        color: #FDFDB3;
+         border-color: #FDFDB3;
+   border-width: 1px;
+   border-style: solid;
+        display: inline-block;
+        font-size: 100%;
+        text-align: center;
+        padding: 10px;
+        text-decoration: none;
+    border-radius: 10px;
+        }
+
+            .button:hover{
+        color: #FDFDB3;
+        box-shadow: 0px 0px 0px;
+        padding-top: 5px;
+    }
+
+.cop {
+	position:absolute;
+	left: 600px;
+	margin-top: 210px;
+}
+.ori {
+	margin-top: 100px;
+}
+
+.vol{
+  position: absolute;
+  left: 100px;
+}
